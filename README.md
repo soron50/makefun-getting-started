@@ -17,6 +17,19 @@ Follow it top to bottom and you will have a real entry in.
 >
 > Or type the code `bzx13rgc` when you sign up — same thing.
 
+## The whole loop on one screen
+
+Short on time? This is the entire guide as a checklist; the sections below unpack each line.
+
+- [ ] Sign up at [make.fun](https://make.fun), then link your GitHub account and a Solana
+  wallet on your profile
+- [ ] Pick a bounty and read its rules end to end before building anything
+- [ ] Download the kit, and start a **fresh** agent session after the bounty has opened
+- [ ] Build in a public GitHub repository under an OSI-approved license (MIT is fine)
+- [ ] From the kit folder: `bundle`, then `check`, then `submit`
+- [ ] Watch `status`; if a check fails, fix what it names and submit again before the deadline
+- [ ] If you place, claim the USDC from escrow to your own wallet
+
 ## How a bounty flows
 
 However different the tasks look, each one moves through the same five beats:
